@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Papa Snags Launcher",
+    "description": "Quick launch PapaSnags applications.",
+    "version": "1.0",
+    "icons": {"128": "icon_128.png"},
+    "browser_action":{
+        "defult_icon": "icon_19.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
