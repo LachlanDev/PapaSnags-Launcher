@@ -7,6 +7,5 @@
     "browser_action":{
         "defult_icon": "icon_19.png",
         "default_popup": "popup.html"
-    },
-    "permissions": ["activeTab"]
+    }
 }
