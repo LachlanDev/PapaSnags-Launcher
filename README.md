@@ -13,7 +13,7 @@
 # About
 PapaSnags Launcher is a chrome extension that allows you to quickly launch PapaSnags's website and social media accounts.
 
-## Installation (awaiting chrome approval)
+## Installation.
 * 1: Download "Installer.zip" from releases.
 * 2: Goto "chrome://extensions" and enable developer mode
 * 3: Drag and drop the "installer.zip" file onto the chrome extensions manager window. 
